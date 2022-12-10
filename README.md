@@ -20,3 +20,10 @@ Fritzing
 </p>
 
 ![FontTool](https://github.com/squix78/esp8266-oled-ssd1306/raw/master/resources/FontTool.png)
+
+
+
+<p float="left">
+  <img src="/resources/Skärmbild_20221210_104717.png" width="250" />
+  <img src="/resources/Skärmbild_20221210_104806.png" /> 
+</p>
