@@ -24,6 +24,6 @@ Fritzing
 
 
 <p float="left">
-  <img src="/resources/ESP8266_PCB_RENDER.png" width="250" />
+  <img src="/resources/ESP8266_PCB_RENDER.png" />
   <img src="/resources/ESP8266_PCB.png" /> 
 </p>
